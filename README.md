@@ -22,7 +22,7 @@ Singleton methods
 ----
 * method name
 
-  description<br>
+  method_description<br>
   arg_name : arg_description (arg_type)<br>
   return : return_value_description (return_value_type)
 
@@ -30,7 +30,7 @@ Public methods
 ----
 * method name
 
-  description<br>
+  method_description<br>
   arg_name : arg_description (arg_type)<br>
   return : return_value_description (return_value_type)
 
@@ -39,4 +39,4 @@ Properties
 ----
 * property name[attributes]
   
-  description
+  property_description
