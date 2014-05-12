@@ -20,7 +20,7 @@ Constants
   
 Singleton methods
 ----
-* __method name__
+* __method_name(arg_list)__
 
   method_description<br>
   arg_name : arg_description (arg_type)<br>
@@ -28,7 +28,7 @@ Singleton methods
 
 Public methods
 ----
-* __method name__
+* __method_name(arg_list)__
 
   method_description<br>
   arg_name : arg_description (arg_type)<br>
@@ -37,6 +37,6 @@ Public methods
 
 Properties
 ----
-* __property name__[attributes]
+* __property_name__[attributes]
   
   property_description
