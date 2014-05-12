@@ -23,7 +23,7 @@ Singleton methods
 * method name
 
   description<br>
-  arg_name : arg_description (arg_type)
+  arg_name : arg_description (arg_type)<br>
   return : return_value_description (return_value_type)
 
 Public methods
@@ -31,7 +31,7 @@ Public methods
 * method name
 
   description<br>
-  arg_name : arg_description (arg_type)
+  arg_name : arg_description (arg_type)<br>
   return : return_value_description (return_value_type)
 
 
