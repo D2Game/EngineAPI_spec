@@ -37,14 +37,14 @@ Public methods
 Properties
 ----
 
-* type - r
+* type[R]
 
   텍스쳐의 타입 (Texture::Type)
   
-* blendmode - rw
+* blendmode[RW]
 
   블렌드 모드 (Blendmode)
   
-* size - r
+* size[R]
 
   텍스쳐의 크기 (Size)
