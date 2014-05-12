@@ -12,15 +12,15 @@ Class_name
 
 Constants
 ----
-* value_name : description
+* __value_name__ : description
 
-* value_group
-  * value_name1 : description1
-  * value_name2 : description2
+* __value_group__
+  * __value_name1__ : description1
+  * __value_name2__ : description2
   
 Singleton methods
 ----
-* method name
+* __method name__
 
   method_description<br>
   arg_name : arg_description (arg_type)<br>
@@ -28,7 +28,7 @@ Singleton methods
 
 Public methods
 ----
-* method name
+* __method name__
 
   method_description<br>
   arg_name : arg_description (arg_type)<br>
@@ -37,6 +37,6 @@ Public methods
 
 Properties
 ----
-* property name[attributes]
+* __property name__[attributes]
   
   property_description
