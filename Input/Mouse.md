@@ -3,9 +3,10 @@ Mouse
 
 Constants
 ----
-* __Left__ : 마우스 왼쪽 버튼
-* __Right__ : 마우스 오른쪽 버튼
-* __Wheel__ : 마우스 휠 버튼
+* __Button__
+  * __Left__ : 마우스 왼쪽 버튼
+  * __Right__ : 마우스 오른쪽 버튼
+  * __Wheel__ : 마우스 휠 버튼
 
 Public methods
 ----
@@ -16,6 +17,12 @@ Public methods
 * __update__
 
   Mouse 오브젝트의 상태를 갱신한다.
+  
+* __pressed?(btn)__
+
+  마우스 버튼이 눌려있는 상태인지 조사한다.<br>
+  btn : 조사할 마우스 버튼 (Mouse::Button)<br>
+  return : true or false
   
 Properties
 ----
