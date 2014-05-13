@@ -3,8 +3,12 @@ Color
 
 Constants
 ----
-* White : rgb(255,255,255)
-* Black : rgb(0,0,0)
+* __White__ : rgb(255,255,255)
+* __Black__ : rgb(0,0,0)
+
+* __Red__ : rgb(255,0,0)
+* __Green__ : rgb(0,255,0)
+* __Blue__ : rgb(0,0,255)
 
 Public methods
 ----
