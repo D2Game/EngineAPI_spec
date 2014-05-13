@@ -3,28 +3,28 @@ Size
 
 Public methods
 ----
-* new(width, height)
+* __new(width, height)__
 
-  Size 오브젝트를 생성한다.
-  width : 가로 크기 (Fixnum)
+  Size 오브젝트를 생성한다.<br>
+  width : 가로 크기 (Fixnum)<br>
   height : 세로 크기 (Fixnum)
   
-* +(size)
+* __+(size)__
 
-  Size 오브젝트끼리 더하기를 수행한다.
+  Size 오브젝트끼리 더하기를 수행한다.<br>
   size : 더할 Size 오브젝트
   
-* -(size)
+* __-(size)__
 
-  Size 오브젝트끼리 빼기를 수행한다.
+  Size 오브젝트끼리 빼기를 수행한다.<br>
   size : 뺄 Size 오브젝트
   
 Properties
 ----
-* width[RW]
+* __width__[RW]
   
   가로 크기 (Fixnum)
   
-* height[RW]
+* __height__[RW]
 
   세로 크기 (Fixnum)
