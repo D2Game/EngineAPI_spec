@@ -6,7 +6,7 @@ Singleton methods
 * __load(file)__
 
   스프라이트 시트를 불러오고 시트에 맞는 스프라이트들을 생성합니다.<br>
-  __file__ : 로드할 파일 이름<br>
+  __file__ : 로드할 파일 이름 (String)<br>
   __return__ : 스프라이트들 (Hash<String,Sprite>)
   
 
