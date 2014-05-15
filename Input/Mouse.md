@@ -12,17 +12,17 @@ Public methods
 ----
 * __new__
 
-  Mouse 오브젝트를 생성한다.
+  Mouse 오브젝트를 생성합니다.
   
 * __update__
 
-  Mouse 오브젝트의 상태를 갱신한다.
+  Mouse 오브젝트의 상태를 갱신합니다.
   
 * __pressed?(btn)__
 
-  마우스 버튼이 눌려있는 상태인지 조사한다.<br>
-  btn : 조사할 마우스 버튼 (Mouse::Button)<br>
-  return : true or false
+  마우스 버튼이 눌려있는 상태인지 조사합니다.<br>
+  __btn__ : 조사할 마우스 버튼 (Mouse::Button)<br>
+  __return__ : true or false
   
 Properties
 ----
