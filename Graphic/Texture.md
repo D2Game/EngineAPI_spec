@@ -19,18 +19,18 @@ Public methods
 
 * __new(width, height, type)__<br>
 
-      텍스쳐를 생성한다.<br>
+      새 텍스쳐를 생성합니다.<br>
       width : 생성할 텍스쳐의 가로 크기 (Fixnum)<br>
       height : 생성할 텍스쳐의 세로 크기 (Fixnum)<br>
       type : 텍스쳐 타입 (Texture::Type)
     
 * __dispose__
 
-    텍스쳐를 파괴한다.
+    텍스쳐를 파괴합니다.
     
 * __draw(x,y)__
 
-    지정된 위치에 텍스쳐를 그린다.<br>
+    지정된 위치에 텍스쳐를 그립니다.<br>
     x : 그릴 x좌표값 (Fixnum)<br>
     y : 그릴 y좌표값 (Fixnum)<br>
     
@@ -48,3 +48,7 @@ Properties
 * __size__[R]
 
   텍스쳐의 크기 (Size)
+
+* __color__[R]
+   
+   텍스쳐의 색상 (Color)
