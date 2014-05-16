@@ -8,7 +8,7 @@ D2Fest GameEngine API Spec
 작성 양식
 
 Class_name  <  Super_class
----- 
+====
 
 Constants
 ----
