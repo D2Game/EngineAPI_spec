@@ -23,16 +23,16 @@ Singleton methods
 * __method_name(arg_list)__
 
   method_description<br>
-  arg_name : arg_description (arg_type)<br>
-  return : return_value_description (return_value_type)
+  __arg_name__ : arg_description (arg_type)<br>
+  __return__ : return_value_description (return_value_type)
 
 Public methods
 ----
 * __method_name(arg_list)__
 
   method_description<br>
-  arg_name : arg_description (arg_type)<br>
-  return : return_value_description (return_value_type)
+  __arg_name__ : arg_description (arg_type)<br>
+  __return__ : return_value_description (return_value_type)
 
 
 Properties
@@ -40,3 +40,10 @@ Properties
 * __property_name__[attributes]
   
   property_description
+
+
+Usage
+----
+```Ruby
+ usage
+```
