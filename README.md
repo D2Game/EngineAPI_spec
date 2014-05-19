@@ -5,7 +5,7 @@ D2Fest GameEngine API Spec
 
 
 
-작성 양식
+__작성 양식__
 
 Class_name  <  Super_class
 ====
